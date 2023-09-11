@@ -1,0 +1,17 @@
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csproj.AssemblyReference.cache
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/Views/UesrPage.xaml.g.cs
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.AssemblyInfoInputs.cache
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.AssemblyInfo.cs
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.csproj.CoreCompileInputs.cache
+/Users/imac/Documents/TestApp/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.deps.json
+/Users/imac/Documents/TestApp/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.dll
+/Users/imac/Documents/TestApp/TestApp/TestApp/bin/Debug/netstandard2.0/ref/TestApp.dll
+/Users/imac/Documents/TestApp/TestApp/TestApp/bin/Debug/netstandard2.0/TestApp.pdb
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.dll
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/refint/TestApp.dll
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/TestApp.pdb
+/Users/imac/Documents/TestApp/TestApp/TestApp/obj/Debug/netstandard2.0/Views/UserDetailPage.xaml.g.cs

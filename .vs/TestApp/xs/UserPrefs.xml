@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{ED09496E-DF5C-4CD3-B171-D322E68D3DC1}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestApp.Android PreferredExecutionTarget="Android.RZ8T31AFAHD" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.2.1.2" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.RZ8T31AFAHD" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp/TestApp/Views/UesrPage.xaml">
+    <Files>
+      <File FileName="TestApp/TestApp/Views/UesrPage.xaml" Line="18" Column="49" />
+      <File FileName="TestApp/TestApp/ViewModels/UserViewModel.cs" Line="103" Column="65" />
+      <File FileName="TestApp/TestApp/MainPage.xaml" />
+      <File FileName="TestApp/TestApp/Services/UserInfo.cs" />
+      <File FileName="TestApp/TestApp/Services/IUserInfo.cs" />
+      <File FileName="TestApp/TestApp/Services/IMessageService.cs" />
+      <File FileName="TestApp/TestApp/Services/MessageService.cs" />
+      <File FileName="TestApp/TestApp/App.xaml.cs" />
+      <File FileName="TestApp/TestApp/Views/UserDetailPage.xaml" Line="5" Column="23" />
+      <File FileName="TestApp/TestApp/Views/UserDetailPage.xaml.cs" />
+      <File FileName="TestApp/TestApp/MainPage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestApp" expanded="True">
+            <Node name="TestApp">
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="UesrPage.xaml" expanded="True" selected="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestApp.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

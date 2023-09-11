@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nNHBm9t0MHGj6tLLZ2CTv25e607vMbrJMQTiwMWPcT1h83Y+WhTt7qtgOtQEeYY8Bb4LaQDwJyXrcuzB+uQeWA==",
+  "success": true,
+  "projectFilePath": "/Users/imac/Documents/TestApp/TestApp/TestApp.iOS/TestApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/imac/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/imac/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/imac/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
