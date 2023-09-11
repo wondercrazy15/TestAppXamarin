@@ -13,6 +13,7 @@
                 VerticalOptions="CenterAndExpand"
                 Color="Black"/>
             <CollectionView
+                VerticalOptions="FillAndExpand"
                 IsVisible="{Binding IsVisible}"
                 ItemsSource="{Binding UserList}"                
                 Margin="10,20,10,20"
@@ -23,7 +24,7 @@
                 </CollectionView.ItemsLayout>
                 <CollectionView.ItemTemplate >
                     <DataTemplate >
-                        <Frame CornerRadius="10" Padding="10" BackgroundColor="#E1E1E1">
+                        <Frame CornerRadius="10" Padding="10" HasShadow="False" BackgroundColor="LightGray">
                             <VisualStateManager.VisualStateGroups>
 					            <VisualStateGroup Name="CommonStates">
 						            <VisualState Name="Normal" />
